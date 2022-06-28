@@ -9,8 +9,6 @@ import array
 import streamlit as st
 
 
-from sklearn.decomposition import dict_learning_online
-
 #? API
 API = st.secrets["maps"]
 gmaps = googlemaps.Client(key=API)
