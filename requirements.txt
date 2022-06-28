@@ -1,0 +1,7 @@
+googlemaps
+gmplot
+pygeocoder
+geopy
+pandas
+numpy
+streamlit
